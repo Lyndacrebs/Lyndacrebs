@@ -5,7 +5,7 @@
  <div>
 
 
-<img   height=180px width=250px align="right" src="	https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"/>
+<img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"/>
 
 - ✨ Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
 - 🎓 Concluindo o **Ensino Médio**
