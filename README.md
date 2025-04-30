@@ -7,11 +7,11 @@
 
 <img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"/>
 
-- ✨ Estudante dedicada de tecnologia, apaixonada por programação e inovação!  
+- ✨ Estou sempre buscando aprender mais, compartilhar conhecimento e contribuir com a comunidade!
 - 🎓 Concluindo o **Ensino Médio**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
 - 📈 Conhecimento em **Power BI** com certificação pelo SENAI
-- 👩🏻‍💻 Interessada em **Sistemas de Informação**, unindo tecnologia e gestão para criar soluções inovadoras  
+- 💡 Acredito que a tecnologia pode transformar vidas — e é nisso que quero trabalhar todos os dias.
 - 💬 Contato: **evelynsantos.14a@gmail.com**
 
 ---
