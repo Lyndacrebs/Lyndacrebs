@@ -11,7 +11,8 @@
 - 🎓 Concluindo o **Ensino Médio**
 - 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
 - 📈 Conhecimento em **Power BI** com certificação pelo SENAI
-- 💡 Acredito que a tecnologia pode transformar vidas — e é nisso que quero trabalhar todos os dias.
+- 💡 Acredito que a tecnologia pode transformar vidas — e é nisso que quero trabalhar
+   todos os dias.
 - 💬 Contato: **evvictoriads@gmail.com**
 
 ---
