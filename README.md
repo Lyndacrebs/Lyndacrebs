@@ -8,10 +8,10 @@
 <img   height=180px width=230px align="right" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"/>
 
 - ✨ Estou sempre buscando aprender mais, compartilhar conhecimento e contribuir com a comunidade!
-- 🎓 Concluindo o **Ensino Médio**
-- 💻 Cursando **3° semestre de Técnico em Desenvolvimento de Sistemas**
+- 🎓 Recém formada no **Ensino Médio**
+- 💻 Fomada em **Técnico em Desenvolvimento de Sistemas**
 - 📈 Conhecimento em **Power BI** com certificação pelo SENAI
-- 💡 Acredito que a tecnologia pode transformar vidas — e é nisso que quero trabalhar
+- 💡 Acredito que a tecnologia pode transformar vidas, e é nisso que quero trabalhar
    todos os dias.
 - 💬 Contato: **evvictoriads@gmail.com**
 
