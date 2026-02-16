@@ -31,9 +31,6 @@
 ### 📚 Atualmente Aprendendo
 <img src="https://skillicons.dev/icons?i=c,python" />
 
-### 💡 Também estudando a plataforma GeneXus
-<img src="https://ibb.co/BKLXHLN8" height="50" alt="GeneXus"/>
-
 </div>
 
 ---
