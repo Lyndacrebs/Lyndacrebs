@@ -35,19 +35,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lyndacrebs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyndacrebs&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Lyndacrebs&theme=radical&hide_border=true"/>
-
-</div>
-
----
 
 ## 🐍 Contribuições
 
