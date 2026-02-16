@@ -57,14 +57,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg](https://www.pngegg.com/en/png-byoxw)](https://www.pngegg.com/en/png-byoxw)" 
-/>
 .
 
 ---
