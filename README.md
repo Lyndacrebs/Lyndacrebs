@@ -15,7 +15,31 @@
    todos os dias.
 
 ---
-### 🤖 Linguagens e Tecnologias
+
+<div align="center">
+
+### 🤖 Linguagens e Estruturas
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,react,typescript" />
+
+<br><br>
+
+### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br><br>
+
+### 📚 Atualmente Aprendendo
+<img src="https://skillicons.dev/icons?i=c,python" />
+
+<p>
+💡 Também estudando a plataforma <strong>GeneXus</strong>
+</p>
+
+</div>
+
+
+
+
 
 <img 
     align="left" 
