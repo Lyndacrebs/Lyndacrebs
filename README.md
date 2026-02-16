@@ -13,7 +13,6 @@
 - 📈 Conhecimento em **Power BI** com certificação pelo SENAI
 - 💡 Acredito que a tecnologia pode transformar vidas, e é nisso que quero trabalhar
    todos os dias.
-- 💬 Contato: **evvictoriads@gmail.com**
 
 ---
 ### 🤖 Linguagens e Tecnologias
