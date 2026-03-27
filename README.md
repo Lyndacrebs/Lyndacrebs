@@ -10,7 +10,7 @@
 - ✨ Estou sempre buscando aprender mais, compartilhar conhecimento e contribuir com a comunidade!
 - 🎓Cursando **Superior em Análise e Desenvolvimento de Sistemas**
 - 💻 Formação de **Técnico em Desenvolvimento de Sistemas**
-- 📈 Conhecimento em **Power BI** com certificação pelo SENAI
+- 📈 Conhecimento em **Power BI** com certificação pelo SENAI.
 - 💡 Acredito que a tecnologia pode transformar vidas, e é nisso que quero trabalhar
    todos os dias.
 
